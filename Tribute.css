@@ -1,0 +1,58 @@
+h1 {
+  text-align:center;
+  font-family: 'Abril Fatface', cursive;
+}
+
+h3 {
+  text-align:center;
+}
+
+.jumbotron {
+  margin:50px;
+  height:2500px;
+  text-align: center;
+}
+
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: 200;
+}
+
+.embed-responsive .embed-responsive-item, .embed-responsive embed, .embed-responsive iframe, .embed-responsive object, .embed-responsive video {
+    position: absolute;
+    top: 18px;
+    bottom: 6px;
+    left: 21px;
+    width: 96%;
+    height: 92%;
+    border: 0;
+}
+
+.container-2 {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+}
+
+p {
+    position:absolute;
+    bottom: 0px;
+    left:375px;
+    text-align: center;
+    font-family: 'Signika', sans-serif;
+    font-size: 6px;
+
+}
+
+ul {
+  text-align: justify;
+
+}
+
+
+
+
+
+
+
